@@ -4,3 +4,22 @@ body {
 p{
   color: #42210b;
 }
+h3{
+  color: #ffffff;
+  font-family: Verdana, serif;
+  font-size: 12px;
+  font-weight: lighter;
+}
+#header{
+  background-color: #d95c49;
+  position: relative;
+  padding: 10px;
+  width: 900px;
+  display: inline-block;;
+}
+.active{
+  background-color: #42210b;
+  padding: 5px;
+  width: 80px;
+  text-align: center;
+}

@@ -1,5 +1,12 @@
 $(document).ready(function(){
-  $('.button').hover(function(){
-    $(this).addClass('active');
-  })
+
+  $('li').hover(
+    function(){
+    $(this).addClass('active')
+    },
+    function(){
+    $(this).removeClass('active')
+    }
+  );
+
 });

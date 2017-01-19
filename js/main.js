@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('p').click(function(){
-    console.log("Hello");
+  $('.button').hover(function(){
+    $(this).addClass('active');
   })
 });

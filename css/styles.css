@@ -102,6 +102,34 @@ li {
   font-size: 10px;
   color: #d9c1ba;
 }
+.active {
+  background-color: #42210b;
+  /*display: inline;
+	border: 1px solid #ffffff;
+	font-family: Verdana, sans-serif;
+  font-size: 12px;
+	color: #ffffff;
+	padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 3px;
+  border-radius: 8px;*/
+}
+.button {
+  background-color: #d95c49;
+  /*border: 1px solid #42210b;*/
+  display: inline;
+	font-family: Verdana, sans-serif;
+  font-size: 12px;
+	color: #fff;
+	padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 3px;
+  border-radius: 8px;
+}
 /*
 .active{
   background-color: #42210b;

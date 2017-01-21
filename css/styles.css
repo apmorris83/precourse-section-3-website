@@ -70,7 +70,7 @@ li {
 #top-phone-number{
   color: #fff;
   font-family: Verdana, sans-serif;
-  font-size: 12px;
+  font-size: 15px;
 }
 #body-container{
   display: relative;
@@ -132,6 +132,22 @@ li {
   border-radius: 8px;
 }
 a{
+  text-decoration: none;
+}
+.contactForm{
+  width: auto;
+  font-family: verdana, sans-serif;
+  font-size: 12px;
+}
+#form{
+  width: 420px;
+}
+input{
+  width: 300px;
+}
+
+#emaillink{
+  color: #d95c49;
   text-decoration: none;
 }
 /*
